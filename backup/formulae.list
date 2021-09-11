@@ -15,6 +15,8 @@ autoconf
 automake
 baidupcs-go
 bar
+bash
+bash-completion
 bat
 bdw-gc
 bear
@@ -134,12 +136,14 @@ mpdecimal
 mpfr
 mpv
 mujs
+nb
 ncurses
 neofetch
 nettle
 nghttp2
 ninja
 nlohmann-json
+nmap
 node
 node@14
 npth
@@ -152,6 +156,7 @@ openjpeg
 openssl@1.1
 opus
 p11-kit
+pandoc
 pango
 pcre
 pcre2
@@ -160,11 +165,13 @@ pinentry
 pixman
 pkg-config
 protobuf
+pygments
 python@3.9
 rav1e
 rclone
 re2
 readline
+ripgrep
 rtmpdump
 rubberband
 screenfetch
@@ -191,6 +198,7 @@ tesseract
 thefuck
 theora
 threemux
+tig
 tldr
 tmux
 tree
@@ -200,6 +208,7 @@ upx
 utf8proc
 v2ray
 vapoursynth
+w3m
 wallpaper
 watchexec
 webp
