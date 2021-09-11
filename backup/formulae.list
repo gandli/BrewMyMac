@@ -9,9 +9,11 @@ antiword
 aom
 archiver
 aria2
+assimp
 atk
 autocode
 autoconf
+autojump
 automake
 baidupcs-go
 bar
@@ -21,6 +23,7 @@ bat
 bdw-gc
 bear
 bitwarden-cli
+boost
 brotli
 c-ares
 cairo
@@ -34,11 +37,13 @@ dash
 dav1d
 dbus
 docker
+double-conversion
 eiffelstudio
 emacs
 exa
 fasttext
 ffmpeg
+findutils
 flac
 flux
 fmt
@@ -82,6 +87,7 @@ hugo
 icu4c
 ideviceinstaller
 ios-deploy
+irssi
 isort
 jansson
 jasper
@@ -89,6 +95,7 @@ jemalloc
 jpeg
 json-glib
 lame
+latex2rtf
 lazydocker
 lemon
 leptonica
@@ -97,6 +104,7 @@ libass
 libassuan
 libb2
 libbluray
+libebml
 libev
 libevent
 libffi
@@ -105,6 +113,7 @@ libgpg-error
 libidn2
 libimobiledevice
 libksba
+libmatroska
 libogg
 libplist
 libpng
@@ -183,6 +192,7 @@ pinentry
 pixman
 pkg-config
 protobuf
+pugixml
 pygments
 python@3.9
 rav1e
