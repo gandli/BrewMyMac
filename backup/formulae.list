@@ -5,6 +5,7 @@ acme
 act
 adwaita-icon-theme
 aliyun-cli
+ant
 antiword
 aom
 archiver
@@ -61,6 +62,7 @@ giflib
 gifsicle
 gifski
 git
+git-flow
 glib
 glib-networking
 glow
@@ -84,6 +86,7 @@ hledger
 htop
 hub
 hugo
+hunspell
 icu4c
 ideviceinstaller
 ios-deploy
@@ -153,8 +156,10 @@ mackup
 macos-term-size
 markdown
 mas
+maven
 micronaut
 mint
+mkvtoolnix
 mongodb-community
 mongodb-database-tools
 mongosh
@@ -163,6 +168,7 @@ mpfr
 mpv
 mujs
 nb
+ncdu
 ncurses
 neofetch
 netpbm
@@ -195,10 +201,12 @@ protobuf
 pugixml
 pygments
 python@3.9
+qt
 rav1e
 rclone
 re2
 readline
+rename
 ripgrep
 rtmpdump
 rubberband
@@ -234,6 +242,7 @@ tree
 uchardet
 unbound
 upx
+utf8cpp
 utf8proc
 v2ray
 vala
@@ -242,6 +251,7 @@ w3m
 wallpaper
 watchexec
 webp
+wget
 wtfutil
 x264
 x265
