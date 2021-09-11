@@ -26,6 +26,7 @@ c-ares
 cairo
 clean
 cmake
+cocoapods
 configen
 coreutils
 ctop
@@ -72,6 +73,8 @@ htop
 hub
 hugo
 icu4c
+ideviceinstaller
+ios-deploy
 isort
 jansson
 jemalloc
@@ -91,6 +94,7 @@ libffi
 libgcrypt
 libgpg-error
 libidn2
+libimobiledevice
 libksba
 libogg
 libplist
