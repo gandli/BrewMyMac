@@ -32,6 +32,7 @@ coreutils
 ctop
 dash
 dav1d
+dbus
 docker
 eiffelstudio
 emacs
@@ -46,6 +47,7 @@ freetype
 frei0r
 fribidi
 gawk
+gd
 gdbm
 gdk-pixbuf
 gettext
@@ -55,6 +57,7 @@ gifsicle
 gifski
 git
 glib
+glib-networking
 glow
 gmp
 gnupg
@@ -62,9 +65,13 @@ gnutls
 go
 gobject-introspection
 gopass
+gradle
 graphite2
+graphviz
 grpc
+gsettings-desktop-schemas
 gtk+
+gts
 guile
 harfbuzz
 hicolor-icon-theme
@@ -77,8 +84,10 @@ ideviceinstaller
 ios-deploy
 isort
 jansson
+jasper
 jemalloc
 jpeg
+json-glib
 lame
 lazydocker
 lemon
@@ -99,11 +108,13 @@ libksba
 libogg
 libplist
 libpng
+libpsl
 libpthread-stubs
 librsvg
 libsamplerate
 libsndfile
 libsodium
+libsoup
 libsoxr
 libssh2
 libtasn1
@@ -145,6 +156,7 @@ mujs
 nb
 ncurses
 neofetch
+netpbm
 nettle
 nghttp2
 ninja
@@ -207,12 +219,14 @@ threemux
 tig
 tldr
 tmux
+tracker
 tree
 uchardet
 unbound
 upx
 utf8proc
 v2ray
+vala
 vapoursynth
 w3m
 wallpaper
