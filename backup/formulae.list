@@ -93,6 +93,7 @@ libgpg-error
 libidn2
 libksba
 libogg
+libplist
 libpng
 libpthread-stubs
 librsvg
@@ -106,6 +107,7 @@ libtiff
 libtool
 libunistring
 libusb
+libusbmuxd
 libuv
 libvidstab
 libvorbis
