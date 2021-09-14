@@ -42,6 +42,7 @@ docker
 double-conversion
 eiffelstudio
 emacs
+enca
 exa
 fasttext
 ffmpeg
@@ -161,6 +162,7 @@ lua
 luajit-openresty
 lz4
 lzo
+m-cli
 m4
 mackup
 macos-term-size
@@ -248,6 +250,7 @@ telnet
 term
 terminal-notifier
 tesseract
+tesseract-lang
 thefuck
 theora
 threemux
