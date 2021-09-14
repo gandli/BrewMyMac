@@ -59,6 +59,7 @@ gdbm
 gdk-pixbuf
 gettext
 gh
+ghostscript
 giflib
 gifsicle
 gifski
@@ -95,6 +96,8 @@ irssi
 isort
 jansson
 jasper
+jbig2dec
+jbig2enc
 jemalloc
 jpeg
 json-glib
@@ -114,7 +117,9 @@ libevent
 libffi
 libgcrypt
 libgpg-error
+libidn
 libidn2
+libimagequant
 libimobiledevice
 libksba
 libmagic
@@ -125,6 +130,7 @@ libplist
 libpng
 libpsl
 libpthread-stubs
+libraqm
 librsvg
 libsamplerate
 libsndfile
@@ -185,6 +191,7 @@ node
 node@14
 npth
 nvm
+ocrmypdf
 oh-my-posh
 onefetch
 opencore-amr
@@ -198,14 +205,18 @@ pango
 pcre
 pcre2
 percol
+pillow
 pinentry
 pixman
 pkg-config
+pngquant
 popt
 protobuf
 pugixml
+pybind11
 pygments
 python@3.9
+qpdf
 qt
 rav1e
 rclone
@@ -247,6 +258,7 @@ tracker
 tree
 uchardet
 unbound
+unpaper
 upx
 utf8cpp
 utf8proc
