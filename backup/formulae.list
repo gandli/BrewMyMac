@@ -23,6 +23,7 @@ bash-completion
 bat
 bdw-gc
 bear
+berkeley-db
 bitwarden-cli
 boost
 brotli
@@ -116,8 +117,10 @@ libgpg-error
 libidn2
 libimobiledevice
 libksba
+libmagic
 libmatroska
 libogg
+libomp
 libplist
 libpng
 libpsl
@@ -148,6 +151,7 @@ libxrender
 libzip
 little-cms2
 lsd
+lua
 luajit-openresty
 lz4
 lzo
@@ -197,6 +201,7 @@ percol
 pinentry
 pixman
 pkg-config
+popt
 protobuf
 pugixml
 pygments
@@ -208,6 +213,7 @@ re2
 readline
 rename
 ripgrep
+rpm
 rtmpdump
 rubberband
 screenfetch
