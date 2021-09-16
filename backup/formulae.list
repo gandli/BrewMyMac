@@ -38,6 +38,7 @@ ctop
 dash
 dav1d
 dbus
+dmg2img
 docker
 double-conversion
 eiffelstudio
@@ -83,6 +84,7 @@ gsettings-desktop-schemas
 gtk+
 gts
 guile
+gzip
 harfbuzz
 hicolor-icon-theme
 hledger
@@ -198,6 +200,7 @@ oh-my-posh
 onefetch
 opencore-amr
 openjdk
+openjdk@11
 openjpeg
 openssl@1.1
 opus
@@ -263,6 +266,7 @@ tree
 uchardet
 unbound
 unpaper
+unzip
 upx
 utf8cpp
 utf8proc
