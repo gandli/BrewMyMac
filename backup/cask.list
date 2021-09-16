@@ -12,6 +12,7 @@ atom
 baiduinput
 baidunetdisk
 bartender
+battery-buddy
 bingpaper
 bitbar
 bitwarden
@@ -35,6 +36,7 @@ font-hack-nerd-font
 font-jetbrains-mono
 font-jetbrains-mono-nerd-font
 font-meslo-lg-nerd-font
+font-smoothing-adjuster
 freecad
 fsnotes
 genymotion
