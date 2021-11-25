@@ -147,6 +147,7 @@ libsamplerate
 libsndfile
 libsodium
 libsoup
+libsoup@2
 libsoxr
 libssh2
 libtasn1
