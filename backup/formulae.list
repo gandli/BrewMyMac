@@ -28,9 +28,12 @@ bitwarden-cli
 boost
 brotli
 c-ares
+ca-certificates
 cairo
+cjson
 clean
 cmake
+cmocka
 cocoapods
 configen
 coreutils
@@ -95,6 +98,7 @@ hugo
 hunspell
 icu4c
 ideviceinstaller
+imath
 ios-deploy
 irssi
 isort
@@ -104,6 +108,7 @@ jbig2dec
 jbig2enc
 jemalloc
 jpeg
+jpeg-xl
 json-glib
 lame
 latex2rtf
@@ -128,6 +133,7 @@ libimobiledevice
 libksba
 libmagic
 libmatroska
+libnghttp2
 libogg
 libomp
 libplist
@@ -135,6 +141,7 @@ libpng
 libpsl
 libpthread-stubs
 libraqm
+librist
 librsvg
 libsamplerate
 libsndfile
@@ -150,6 +157,7 @@ libusb
 libusbmuxd
 libuv
 libvidstab
+libvmaf
 libvorbis
 libvpx
 libx11
@@ -172,6 +180,8 @@ macos-term-size
 markdown
 mas
 maven
+mbedtls
+md4c
 micronaut
 mint
 mkvtoolnix
@@ -200,6 +210,7 @@ ocrmypdf
 oh-my-posh
 onefetch
 opencore-amr
+openexr
 openjdk
 openjdk@11
 openjpeg
@@ -221,6 +232,7 @@ protobuf
 pugixml
 pybind11
 pygments
+python@3.10
 python@3.9
 qpdf
 qt
@@ -288,6 +300,7 @@ xorgproto
 xvid
 xz
 youtube-dl
+yt-dlp
 zeromq
 zimg
 zplug
