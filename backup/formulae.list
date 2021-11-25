@@ -75,6 +75,7 @@ glib
 glib-networking
 glow
 gmp
+gnu-sed
 gnupg
 gnutls
 go
@@ -203,6 +204,7 @@ nghttp2
 ninja
 nlohmann-json
 nmap
+nnn
 node
 node@14
 npth
