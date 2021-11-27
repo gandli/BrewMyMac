@@ -205,6 +205,7 @@ mpdecimal
 mpfr
 mpv
 mujs
+mycli
 nb
 ncdu
 ncurses
@@ -250,6 +251,7 @@ pugixml
 pv
 pybind11
 pygments
+python-tabulate
 python@3.10
 python@3.9
 qpdf
