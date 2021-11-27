@@ -30,6 +30,7 @@ brotli
 c-ares
 ca-certificates
 cairo
+carthage
 cjson
 clean
 cmake
@@ -50,6 +51,7 @@ emacs
 enca
 exa
 fasttext
+fdupes
 ffmpeg
 findutils
 flac
@@ -233,6 +235,7 @@ pngquant
 popt
 protobuf
 pugixml
+pv
 pybind11
 pygments
 python@3.10
@@ -254,6 +257,7 @@ sdl2
 six
 smartmontools
 snappy
+spaceship
 spdlog
 speedtest
 speedtest-cli
