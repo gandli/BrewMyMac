@@ -8,8 +8,12 @@ aliyun-cli
 ant
 antiword
 aom
+apr
+apr-util
 archiver
+argon2
 aria2
+aspell
 assimp
 atk
 autocode
@@ -36,9 +40,11 @@ clean
 cmake
 cmocka
 cocoapods
+composer
 configen
 coreutils
 ctop
+curl
 dash
 dav1d
 dbus
@@ -58,6 +64,7 @@ flac
 flux
 fmt
 fontconfig
+freetds
 freetype
 frei0r
 fribidi
@@ -113,6 +120,7 @@ jemalloc
 jpeg
 jpeg-xl
 json-glib
+krb5
 lame
 latex2rtf
 lazydocker
@@ -141,6 +149,7 @@ libogg
 libomp
 libplist
 libpng
+libpq
 libpsl
 libpthread-stubs
 libraqm
@@ -214,11 +223,13 @@ nvm
 ocrmypdf
 oh-my-posh
 onefetch
+oniguruma
 opencore-amr
 openexr
 openjdk
 openjdk@11
 openjpeg
+openldap
 openssl@1.1
 opus
 p11-kit
@@ -227,6 +238,7 @@ pango
 pcre
 pcre2
 percol
+php
 pillow
 pinentry
 pixman
@@ -278,6 +290,7 @@ tesseract-lang
 thefuck
 theora
 threemux
+tidy-html5
 tig
 tldr
 tmux
@@ -285,6 +298,7 @@ tracker
 tree
 uchardet
 unbound
+unixodbc
 unpaper
 unzip
 upx
