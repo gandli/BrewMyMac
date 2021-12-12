@@ -50,6 +50,7 @@ dav1d
 dbus
 dmg2img
 docker
+docker-machine
 double-conversion
 dropbear
 eiffelstudio
