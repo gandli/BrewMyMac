@@ -60,6 +60,7 @@ exa
 fasttext
 fdupes
 ffmpeg
+file-roller
 findutils
 flac
 flux
@@ -98,6 +99,7 @@ graphviz
 grpc
 gsettings-desktop-schemas
 gtk+
+gtk+3
 gts
 guile
 gzip
@@ -134,6 +136,7 @@ libassuan
 libb2
 libbluray
 libebml
+libepoxy
 libev
 libevent
 libffi
