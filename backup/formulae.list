@@ -51,6 +51,7 @@ dbus
 dmg2img
 docker
 docker-machine
+dog
 double-conversion
 dropbear
 eiffelstudio
@@ -91,6 +92,7 @@ gnu-sed
 gnupg
 gnutls
 go
+goaccess
 gobject-introspection
 gopass
 gradle
@@ -149,6 +151,7 @@ libimobiledevice
 libksba
 libmagic
 libmatroska
+libmaxminddb
 libnghttp2
 libogg
 libomp
@@ -301,6 +304,7 @@ tidy-html5
 tig
 tldr
 tmux
+tokyo-cabinet
 tracker
 tree
 uchardet
