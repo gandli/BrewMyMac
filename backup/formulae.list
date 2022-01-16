@@ -37,6 +37,7 @@ c-ares
 ca-certificates
 cairo
 carthage
+cask
 cjson
 clean
 cmake
