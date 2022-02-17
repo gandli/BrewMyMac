@@ -60,6 +60,7 @@ dropbear
 eiffelstudio
 emacs
 enca
+erlang
 exa
 fasttext
 fdupes
@@ -139,6 +140,7 @@ leptonica
 libarchive
 libass
 libassuan
+libavif
 libb2
 libbluray
 libebml
@@ -258,6 +260,7 @@ pixman
 pkg-config
 pngquant
 popt
+proper
 protobuf
 pugixml
 pv
@@ -328,6 +331,7 @@ watchexec
 webp
 wget
 wtfutil
+wxwidgets
 x264
 x265
 xcodegen
