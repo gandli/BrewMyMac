@@ -65,6 +65,7 @@ exa
 fasttext
 fdupes
 ffmpeg
+ffmpeg@4
 file-roller
 findutils
 flac
