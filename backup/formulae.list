@@ -96,7 +96,6 @@ gmp
 gnu-sed
 gnupg
 gnutls
-go
 goaccess
 gobject-introspection
 gopass
@@ -146,7 +145,6 @@ libb2
 libbluray
 libebml
 libepoxy
-libev
 libevent
 libffi
 libgcrypt
@@ -193,6 +191,7 @@ libxau
 libxcb
 libxdmcp
 libxext
+libxml2
 libxrender
 libzip
 little-cms2
@@ -221,13 +220,11 @@ mpfr
 mpv
 mujs
 mycli
-nb
 ncdu
 ncurses
 neofetch
 netpbm
 nettle
-nghttp2
 ninja
 nlohmann-json
 nmap
@@ -264,7 +261,6 @@ popt
 proper
 protobuf
 pugixml
-pv
 pybind11
 pygments
 python-tabulate
@@ -289,7 +285,6 @@ smartmontools
 snappy
 spaceship
 spdlog
-speedtest
 speedtest-cli
 speex
 sphinx-doc
@@ -301,7 +296,6 @@ swiftlint
 switchaudio-osx
 tcl-tk
 telnet
-term
 terminal-notifier
 tesseract
 tesseract-lang
