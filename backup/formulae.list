@@ -53,6 +53,7 @@ dav1d
 dbus
 dmg2img
 docker
+docker-compose
 docker-machine
 dog
 double-conversion
@@ -96,6 +97,7 @@ gmp
 gnu-sed
 gnupg
 gnutls
+go
 goaccess
 gobject-introspection
 gopass
