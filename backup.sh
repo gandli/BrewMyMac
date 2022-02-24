@@ -106,7 +106,7 @@ fi
 install_homebrew >/dev/null
 switch_branch
 # 更新
-brew update && brew upgrade && brew cu -af -y && mas upgrade
+brew update && brew upgrade && brew cu -afy && mas upgrade
 # 备份
 backup_formulae
 backup_cask
