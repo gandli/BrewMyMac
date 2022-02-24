@@ -5,7 +5,6 @@ acme
 act
 adwaita-icon-theme
 aliyun-cli
-ant
 antiword
 aom
 appicon
@@ -83,13 +82,12 @@ gdbm
 gdk-pixbuf
 gdrive
 gettext
-gh
 ghostscript
 giflib
 gifsicle
 gifski
-git
 git-flow
+glances
 glib
 glib-networking
 glow
@@ -97,7 +95,6 @@ gmp
 gnu-sed
 gnupg
 gnutls
-go
 goaccess
 gobject-introspection
 gopass
@@ -327,6 +324,7 @@ wallpaper
 watchexec
 webp
 wget
+whalebrew
 wtfutil
 wxwidgets
 x264
