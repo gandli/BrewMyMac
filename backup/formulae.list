@@ -42,6 +42,7 @@ clean
 cmake
 cmocka
 cocoapods
+cointop
 composer
 configen
 coreutils
@@ -213,6 +214,7 @@ md4c
 micronaut
 mint
 mkvtoolnix
+mockserver
 mongodb-community
 mongodb-database-tools
 mongosh
